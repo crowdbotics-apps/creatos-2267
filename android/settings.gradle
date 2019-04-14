@@ -1,0 +1,3 @@
+rootProject.name = 'creatos_2267'
+
+include ':app'
